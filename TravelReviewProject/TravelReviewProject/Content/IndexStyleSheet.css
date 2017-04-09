@@ -1,0 +1,31 @@
+﻿
+
+
+html{
+    background: url(../../Content/Images/HotelMainImage.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+
+
+.titlePage{
+    background-color:transparent;
+}
+
+h1{
+    font-size: 180px;
+    text-shadow:20px, 20px, 20px,#000000;
+    color:rgba(255, 255, 255, 0.95);
+    font-family: 'Berkshire Swash', cursive;
+    letter-spacing: 0.2em;
+    text-align:center;    
+}
+
+p{
+    font-size: 45px;
+    color:rgb(255, 255, 255);
+    font-family:  'Berkshire Swash', cursive;
+    font-style:italic;
+    letter-spacing: 0.1em;
+    text-align:center;
+    text-shadow:20px, 20px, 20px,#000000;
+}
